@@ -1,0 +1,61 @@
+/*!
+ * Виджет информационной панели "Компоненты".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+/**
+ * Элементы списка.
+ */
+.g-ds-shortcuts .g-shortcuts__item_ext .g-shortcuts__thumb {
+    background: rgba(234, 214, 183, 0.2);
+}
+.g-ds-shortcuts .g-shortcuts__item_ext.g-shortcuts__item_over .g-shortcuts__thumb {
+    background: rgba(234, 214, 183, 1);
+}
+.g-ds-shortcuts .g-shortcuts__thumb-description {
+    color: #888;
+}
+
+
+/**
+ * Сокращенный вид элемента.
+ */
+ .g-ds-shortcuts .g-shortcuts__item_short {
+    width: 64px;
+    height: 64px;
+}
+.g-ds-shortcuts .g-shortcuts__item_short .g-shortcuts__thumb-title,
+.g-ds-shortcuts .g-shortcuts__item_short .g-shortcuts__thumb-description {
+    display: none;
+}
+.g-ds-shortcuts .g-shortcuts__item_short .g-shortcuts__thumb {
+    padding: 0;
+}
+
+/**
+ * Компактный вид элемента.
+ */
+.g-ds-shortcuts .g-shortcuts__item_small {
+    width: 330px;
+    height: 63px;
+}
+.g-ds-shortcuts .g-shortcuts__item_small img {
+    width: 28px;
+}
+.g-ds-shortcuts .g-shortcuts__item_small .g-shortcuts__thumb {
+    padding: 7px 7px 7px 48px
+}
+
+
+/**
+ * Окно настроек параметров виджета.
+ */
+.g-ds-shortcuts-options .x-column .x-panel-header {
+   background-color: inherit; 
+}
+.g-ds-shortcuts-options .x-column .x-panel-header-title {
+    color: #444;
+}

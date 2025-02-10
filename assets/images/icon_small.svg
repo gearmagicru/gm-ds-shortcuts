@@ -1,0 +1,10 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+  <g id="icon">
+    <path d="M15,15.5H1c-0.2761,0,-0.5,-0.2239,-0.5,-0.5V3.5l14.9667,-0.0167v11.5C15.5,15.2761,15.2761,15.5,15,15.5z" fill="#FFFFFF" stroke="#217346" stroke-width="1" stroke-miterlimit="10"/>
+    <path d="M16,4H0V2c0,-0.5523,0.4477,-1,1,-1h14c0.5523,0,1,0.4477,1,1V4z" fill="#217346"/>
+    <rect x="2.5" y="6.5" width="4" height="4" fill="#E6E7E8" stroke="#797979" stroke-width="1" stroke-miterlimit="10" stroke-linejoin="round"/>
+    <line x1="3" y1="12.5" x2="6" y2="12.5" fill="none" stroke="#797979" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="round"/>
+    <rect x="9.5" y="6.5" width="4" height="4" fill="#E6E7E8" stroke="#797979" stroke-width="1" stroke-miterlimit="10" stroke-linejoin="round"/>
+    <line x1="10" y1="12.5" x2="13" y2="12.5" fill="none" stroke="#797979" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="round"/>
+  </g>
+</svg>
