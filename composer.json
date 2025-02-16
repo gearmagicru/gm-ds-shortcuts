@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-ds-shortcuts",
     "description": "Dashboard widget \"Components\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "dashboard",
-        "widget",
-        "shortcuts"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "components"],
     "homepage": "https://apps.gearmagic.ru/component/gm-ds-shortcuts",
     "type": "component",
     "license": "MIT",
